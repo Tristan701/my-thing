@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Turtle Power Pizza</title>
+<link href="css/turtlepowerstyle.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="container">
+  <header class="header">
+    <h1>Turtle Power Pizza!</h1>
+    <img src="images/turtlesheaderadjust.jpg" width="960" height="217" alt="Turtle Power Pizza Header"/> 
+</header>
+  
+  <nav class="nav">
+    <ul class="group">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="menu.html">Menu</a></li>
+      <li><a href="callus.html">Call Us</a></li>
+    </ul>
+    </nav>
+  
+  <main class="main">
+	
+	  <div class="main-text">
+    <p>We've got the best pizza pie in Manhattan! For righteous flavor and cowabunga calories, you need Turtle Power Pizza! Forget what those Foot Clan stooges offer up across town...Turtle Power Pizza wants to be your bodacious pizzeria! Whoa!</p>
+    </div>
+	
+	  <div class="main-image">
+	  <img src="images/turtlespizza3.jpg" width="460" alt="Nickelodeon Turtles Pizza"/> 
+	  </div>
+	  
+  </main>
+  
+  
+  <footer class="footer">
+    <p>&copy; Turtle Power Pizza 2021. No Foot Clan acolytes were harmed (not seriously, anyway) in the making of this website.</p>
+  </footer>
+</div>
+	
+</body>
+</html>
